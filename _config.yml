@@ -1,0 +1,28 @@
+name: izck
+favicon: null
+layout_spectrum: 0.5692829645704478
+typography_spectrum: 0.5130250474903733
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.49547362281009555
+  lightness: 0.8323661803733557
+  saturation: 0.7004797344561666
+  rhythmicContrast: 0.9198480302002281
+purpose: []
